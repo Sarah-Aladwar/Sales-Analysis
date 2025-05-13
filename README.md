@@ -38,7 +38,6 @@ The dashboard was created to help stakeholders quickly grasp sales performance p
 - **Boost low-performing months:** Run promotions in **February** and **October** to stimulate sales.
 - **Explore underperforming categories:** Analyze challenges in **Women’s Fashion** and **Computing**.
 - **Target mid-age buyers:** Customize offerings for the **30–60** age group.
-- **Test gender-specific marketing:** With an almost even gender split, test tailored messaging for conversion optimization.
 - **Expand category diversification:** Invest in high-interest areas aligned with top-performing segments.
 
 ## 🛠 Tools Used
@@ -53,8 +52,6 @@ Users can explore the dashboard using the following slicers:
 - 🌎 **Region:** Midwest, Northeast, South, West  
 - 📦 **Order Status**  
 - 💳 **Payment Method**  
-
-These filters enable users to perform customized analysis for regional or operational insights.
 
 
 ## 📁 Folder Structure
