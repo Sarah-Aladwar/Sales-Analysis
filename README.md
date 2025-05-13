@@ -61,7 +61,7 @@ Users can explore the dashboard using the following slicers:
 ├── 📄 README.md
 ├── 📂 Analysis/
 │   └── 📉 Sales Analysis.pbix
-├── 📂 Outputs/
+├── 📂 Output/
 │ └── 📊 Sales Analysis Dashboard.pdf
 └── 📂 Visuals/
     └── 🖼️ Dashboard Screenshot.png
